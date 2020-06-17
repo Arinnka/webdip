@@ -1,0 +1,15 @@
+.limu-widget-directions-setting> table > tbody > tr > td{
+	padding:5px 0;
+}
+
+.limu-widget-directions-setting.route-td{
+	padding-left: 10px;
+}
+
+.limu-widget-directions-setting.jimu-ellipsis{
+	padding-left: 10px;
+}
+
+.limu-widget-directions-setting.locator-td{
+	padding-left: 10px;
+}

@@ -1,0 +1,148 @@
+{
+  "editor": {
+    "enableUndoRedo": true,
+    "toolbarVisible": true,
+    "toolbarOptions": {
+      "mergeVisible": false,
+      "cutVisible": false,
+      "reshapeVisible": false
+    },
+    "honorSettingOfWebmap": false,
+    "layerInfos": [
+      {
+        "featureLayer": {
+          "id": "1561407433039r6192721379961132"
+        },
+        "disableGeometryUpdate": false,
+        "allowCreate": true,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "GlobalID",
+            "label": "GlobalID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "CreationDate",
+            "label": "CreationDate",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Creator",
+            "label": "Creator",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "EditDate",
+            "label": "EditDate",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Editor",
+            "label": "Editor",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "name",
+            "label": "name",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "description",
+            "label": " description",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "rating",
+            "label": " rating",
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "LAST_object_7713"
+        },
+        "disableGeometryUpdate": false,
+        "allowCreate": true,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "GlobalID",
+            "label": "",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "CreationDate",
+            "label": "CreationDate",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "Creator",
+            "label": "Creator",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "EditDate",
+            "label": "EditDate",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "Editor",
+            "label": "Editor",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "name",
+            "label": "",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "description",
+            "label": " description",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "rating",
+            "label": " rating",
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      }
+    ],
+    "useFilterEdit": true,
+    "autoApplyEditWhenGeometryIsMoved": false,
+    "snappingTolerance": 15,
+    "popupTolerance": 5,
+    "stickyMoveTolerance": 0,
+    "usingSaveButton": true
+  }
+}
